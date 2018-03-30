@@ -6,7 +6,7 @@ Content of the Master:
 
 - Python programming
 - R programming
-- SQL (Postgress)
+- SQL(Postgress)
 - Linux Shell
 - Machine Learning
 - ...
