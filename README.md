@@ -1,6 +1,6 @@
 ## Master in Data Science 2018 - KSCHOOL
 
-This repository will content all the exercises done during the Master.
+This repository will contain all the exercises done during the Master.
 
 Content of the Master:
 
