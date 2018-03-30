@@ -1,13 +1,12 @@
-# Master-Data-Science
+# Master in Data Science 2018 - KSCHOOL
 
-This is my repository.
+This repository will content all the exercises done during the Master.
 
-I can type by using Markdown:
+Content of the Master:
 
-* List of things
-* Another thing
-* Another...
-
-I can type on *italic*, or **bold**
-
-Hi, I am going to mess this up
+- Python programming
+- R programming
+- SQL (Postgress)
+- Linux Shell
+- Machine Learning
+- ...
