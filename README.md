@@ -1,12 +1,14 @@
 ## Master in Data Science 2018 - KSCHOOL
 
-This repository will contain all the exercises done during the Master.
+This repository contains all the exercises done during the Master (230h).
 
 Content of the Master:
 
-- Python programming
+- Python programming (Jupyter Notebooks)
+	- Numpy, Pandas & Matplotlib
 - R programming
 - SQL (Postgre)
 - Linux Shell
 - Machine Learning
+- Deep Learning
 - ...
