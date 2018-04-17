@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-# Create a script that accepts as input arguments the name of the CSV file, and a number (number of engines) and returns the number of aircrafts that have that number of engines.
+# Create a script that accepts as input arguments the name of the CSV file, and a number (number of engines).
+# And returns the number of aircrafts that have that number of engines.
 
 FILE="$2"
 ENGINES="$1"
