@@ -1,3 +1,6 @@
+# Read csv is the default function to read a csv
+# You have to specify the path of the file. 
+# It is advisable that you are in the RStudio project folder.
 titanic <- read.csv("train.csv")
 
 titanic[1,]
@@ -99,19 +102,3 @@ titanic %>%
 # str() == info() in python. Structure in R
 # 1:10 to create vector from 1 to 10
 #
-#
-#
-#
-#
-
-
-
-
-
-
-
-
-
-
-
-
