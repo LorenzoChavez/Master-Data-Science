@@ -69,14 +69,17 @@ titanic$Risk[men3rd] <- 4
 
 # 10. Create another column named deviationFare theat contains the difference
 # between Fare and the mean of all "Fare" from the dataset.
-# Also, calculate the min and max of this new variable for each pair, sex and class.
+# Also, calculate the min and max of this new variable for each combination of sex and class.
 
-titanic$deviationFare <- 0
 fareMean <- mean(titanic$Fare)
-
+fareMean
 titanic$deviationFare <- titanic$Fare - fareMean
-min(titanic$deviationFare)
-max(titanic$deviationFare)
 
-## 11. Mira la ayuda de xtabs y presenta los mínimos de otra manera con
-# esta función
+aggregate(deviationFare~Sex+Pclass, titanic,min)
+aggregate(deviationFare~Sex+Pclass, titanic,max)
+
+## 11. Look at the help documentation from xtabs and calculate the min/man in a different
+# way with this new function
+
+xtabs(deviationFare~Sex+Pclass,aggregate(deviationFare~Sex+Pclass,titanic,min))
+xtabs(deviationFare~Sex+Pclass,aggregate(deviationFare~Sex+Pclass,titanic,max))
