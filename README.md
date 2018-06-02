@@ -1,14 +1,36 @@
-## Master in Data Science 2018 - KSCHOOL
+# Master in Data Science 2018 - KSCHOOL
 
-This repository contains all the exercises done during the Master (230h).
+This Master is currently taking place in [KSchool](https://kschool.com/) Madrid, from March to October (230h)
 
-Content of the Master:
+This repository contains all exercises done during the Master.
 
-- Python programming (Jupyter Notebooks)
-	- Numpy, Pandas & Matplotlib
-- R programming
-- SQL (Postgre)
-- Linux Shell
-- Machine Learning
-- Deep Learning
-- ...
+## Content of the Master:
+
+- Intro to Data Science *~20h*
+	- GitHub
+	- Shell
+	- Csvtoolkit
+	- SQL
+- Languages for Data Hacking *~45h*
+	- Python & Jupyter Notebook
+	- Numpy, Pandas, DataFrames & Matplotlib
+- Statistics, Machine Learning & Deep Learning *~100h*
+	- Data Analysis with R:
+		- vectors, reshape, data.table, dplyr, etc.
+		- webscraping, text analysis
+	- Data Visualization with R:
+		- ggplot2
+		- R Markdown
+		- Shiny
+	- Statistics and probability:
+		- p-value, test A/B
+		- Linear regression
+		- Bayesian statistics
+		- Unsupervised learning
+	- Natural language processing (NLP)
+	- ...*to be updated*...
+- Big Data - Spark ~25h*
+- Visualization ~20h*
+	- Tableau
+	- D3.js
+-  Final Project: ...*to be updated*...
