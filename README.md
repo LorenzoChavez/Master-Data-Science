@@ -1,6 +1,6 @@
 # Master in Data Science 2018 - KSCHOOL
 
-This Master is currently taking place in [KSchool](https://kschool.com/) Madrid, from March to October (230h)
+I am currently taking this Master in Madrid at [KSchool](https://kschool.com/), from March to October (230h)
 
 This repository contains all exercises done during the Master.
 
@@ -29,8 +29,8 @@ This repository contains all exercises done during the Master.
 		- Unsupervised learning
 	- Natural language processing (NLP)
 	- ...*to be updated*...
-- Big Data - Spark ~25h*
-- Visualization ~20h*
+- Big Data - Spark *~25h*
+- Visualization *~20h*
 	- Tableau
 	- D3.js
 -  Final Project: ...*to be updated*...
