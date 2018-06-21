@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529266362991.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1651588468",
+    "id" : "E3222692",
+    "lastKnownWriteTime" : 1529617335,
+    "last_content_update" : 1529617335732,
+    "path" : "D:/Lorenzo/Master Data Science/my-projects/unicorns_on_unicycles/first-steps.R",
+    "project_path" : "first-steps.R",
+    "properties" : {
+        "cursorPosition" : "78,0",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
