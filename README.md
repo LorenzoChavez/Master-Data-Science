@@ -1,36 +1,34 @@
 # Master in Data Science 2018 - KSCHOOL
 
-I am currently taking this Master in Madrid at [KSchool](https://kschool.com/), from March to October (230h)
+Master has taken place in [KSchool](https://kschool.com/) Madrid, from March to October (230h)
 
 This repository contains all exercises done during the Master.
 
 ## Content of the Master:
 
-- Intro to Data Science *~20h*
+1. Intro to Data Science
 	- GitHub
 	- Shell
 	- Csvtoolkit
-	- SQL
-- Languages for Data Hacking *~45h*
-	- Python & Jupyter Notebook
-	- Numpy, Pandas, DataFrames & Matplotlib
-- Statistics, Machine Learning & Deep Learning *~100h*
-	- Data Analysis with R:
-		- vectors, reshape, data.table, dplyr, etc.
-		- webscraping, text analysis
-	- Data Visualization with R:
-		- ggplot2
-		- R Markdown
-		- Shiny
-	- Statistics and probability:
-		- p-value, test A/B
-		- Linear regression
-		- Bayesian statistics
-		- Unsupervised learning
-	- Natural language processing (NLP)
-	- ...*to be updated*...
-- Big Data - Spark *~25h*
-- Visualization *~20h*
+2. Languages for Data Analysis
+    - PostgreSQL
+	- Python: numpy, pandas, matplotlib etc.
+	- R: dplyr, ggplot2, Shiny, Rmarkdown, etc.
+3. Machine Learning
+    - Statistics and probability
+    - Supervised Learning
+        - Linear and Logistic Regression 
+        - Regularization: Lasso, Ridge, ElasticNet
+        - Naive Bayes
+        - Decision Trees, KNN, Random Forest
+        - SVM, Gradient Boost Machine
+    - Unsupervised Learning
+        - Clustering, KMeans, PCA
+    - Recommender Systems
+    - Natural Language Processing
+4. Deep Learning - CNN
+5. Big Data - Spark
+6. Advanced visualization
 	- Tableau
 	- D3.js
--  Final Project: ...*to be updated*...
+7.  Final Project: [Improving user experience in the Fashion Industry with Deep Learning](https://github.com/LorenzoChavez/master-data-science-final-project)
