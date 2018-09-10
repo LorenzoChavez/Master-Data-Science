@@ -1,8 +1,8 @@
 # Master in Data Science 2018 - KSCHOOL
 
-Master has taken place in [KSchool](https://kschool.com/) Madrid, from March to October (230h)
+Master is taking place at [KSchool](https://kschool.com/) Madrid, from March to October (230h)
 
-This repository contains all exercises done during the Master.
+This repository contains the all exercises done during the Master.
 
 ## Content of the Master:
 
