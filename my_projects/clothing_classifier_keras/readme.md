@@ -1,4 +1,4 @@
-## Clothing classifier with Keras and CNN
+## Clothing classifier with Keras
 
 Trained a neural network to distinguish between different colors of clothing.
 
