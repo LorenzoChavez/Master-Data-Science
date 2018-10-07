@@ -7,7 +7,7 @@ than 65 years.*/
 
 CREATE DATABASE friends;
 
-CREATE TABLE facebook (name VARCHAR, age INT, city VARCHAR, email VARCHAR);
+CREATE TABLE my_fb_friends (name VARCHAR, age INT, residence VARCHAR, email VARCHAR);
 
 SELECT * FROM my_fb_friends WHERE age <18 OR age>65;
 
