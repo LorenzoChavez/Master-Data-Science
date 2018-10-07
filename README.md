@@ -12,7 +12,7 @@ This repository contains the all exercises done during the Master.
 	- Csvtoolkit
 2. Languages for Data Analysis
     - PostgreSQL
-	- Python: numpy, pandas, matplotlib etc.
+	- Python: numpy, pandas, matplotlib, sklearn etc.
 	- R: dplyr, ggplot2, Shiny, Rmarkdown, etc.
 3. Machine Learning
     - Statistics and probability
@@ -26,9 +26,9 @@ This repository contains the all exercises done during the Master.
         - Clustering, KMeans, PCA
     - Recommender Systems
     - Natural Language Processing
-4. Deep Learning - CNN
+4. Deep Learning - Keras
 5. Big Data - Spark
 6. Advanced visualization
 	- Tableau
 	- D3.js
-7.  Final Project: [Improving user experience in the Fashion Industry with Deep Learning](https://github.com/LorenzoChavez/master-data-science-final-project)
+7.  Final Project: [Improving user experience in the Fashion Industry](https://github.com/LorenzoChavez/master-data-science-final-project)
